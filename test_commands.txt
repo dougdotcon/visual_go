@@ -1,0 +1,12 @@
+help
+status
+save 1
+save 2
+slots
+load 1
+status
+press a
+press b
+release a
+release b
+quit
